@@ -2,4 +2,4 @@
 Repository
 Hello Admin hows you
 we are here to merge two repositories in different branches.
-so shall we start.
+can shall we start.
